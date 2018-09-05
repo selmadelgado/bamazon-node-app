@@ -22,7 +22,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) VALU
     ("Anova Culinary Sous Vide", "Kitchen", 159, 1000),
     ("Test Kitchen Sous Vide Cookbook", "Kitchen", 15, 200),
     ("Sousvide Vacuum Sealer", "Kitchen", 30, 300),
-    ("Node.js in Action", "Books", 11, 70)
+    ("Node.js in Action", "Books", 11, 70),
     ("A Smarter Way to Learn JavaScript", "Books", 3, 50);
 
 SELECT * FROM products;
