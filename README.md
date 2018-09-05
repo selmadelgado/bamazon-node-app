@@ -17,11 +17,7 @@ To run the customer interface please follow the steps below:
 	git clone https://github.com/selmadelgado/bamazon-node-app.git
 	cd bamazon-node-app.git
 	npm install
-	node bamazonCustomer.js
-	
-	### Demo
-<a href="https://imgflip.com/gif/2h8fex"><img src="https://i.imgflip.com/2h8fex.gif" title="made at imgflip.com"/></a>
-	
+	node bamazonCustomer.js	
 
 ### Manager Interace
 
